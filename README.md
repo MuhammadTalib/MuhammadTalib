@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/muhammadtalib/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://stackoverflow.com/users/10838401/muhammad-talib-waseem"><img src="https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> 
-<a href="mailto:talibwaseem135@gmail.com"><img src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" height=25></a>
+<a href="mailto:talibwaseem135@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height=25></a>
 
 Eat :arrow_right: Code :arrow_right: Sleep :arrows_clockwise:
 
